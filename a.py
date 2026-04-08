@@ -15,6 +15,8 @@ st.set_page_config(page_title="Algo19 Utils", layout="wide")
 
 st.title("Algo19 Utils")
 
+st.write("Welcome to Algo19 Utils - App loaded successfully!")
+
 # ────────────────────────────────────────────────
 #  Session state keys prefixed for Tab 2
 # ────────────────────────────────────────────────
